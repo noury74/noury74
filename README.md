@@ -5,14 +5,18 @@ AI agents are everywhere. So is enterprise data, and that is the problem.
 
 Several generations of data platforms later, it is still scattered across silos, or locked in platforms that move at the speed of IT, not the speed of business.
 
-Agents need an agile data foundation: every department, every legal entity, every critical source, unified into one version that delivers trust, accessibility and speed.
+Today's platforms (Databricks, Snowflake, Microsoft Fabric, Google BigQuery, AWS...) are more powerful than ever. But they remain development platforms. Turning them into a trusted data foundation still requires rare technical depth, decades of architecture know-how and intimate business knowledge. Few organizations have all three. None have enough of it.
 
-We are building a business layer on the data platforms companies already own:
-- **The CDO sets the rules** that govern data
-- **The business owns** the data foundations: they explain how the business works, and what is critical for them to achieve
-- **AI agents build and run** the platform
+Yet agents need exactly that: every department, every legal entity, every critical source, unified into one version that delivers trust, accessibility and speed.
 
-One unified, governed, proven model of the enterprise. First for AI agents, then for every downstream app. No migration, no new platform.
+**We are changing who does the work.** A new layer, on top of the platform you already own:
+- **The CDO sets the golden rules** that govern data
+- **The business owns the data foundations**: it explains how the business works and what is critical to achieve
+- **AI agents build and run** the data flows and models
+
+One unified, governed, proven model of the enterprise. First for AI agents, then for every downstream app. No migration, no new platform: just data that finally moves at the speed of the business.
+
+*The next decade of data won't be built by IT for the business. It will be built by the business, with agents, under the CDO's governance.*
 
 ---
 
