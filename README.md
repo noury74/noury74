@@ -1,5 +1,3 @@
-### Nicolas Oury
-
 **Building the data foundations for the age of AI agents.**
 
 AI agents are everywhere. Enterprise data is not. It is still trapped in silos, or locked in platforms that move at the speed of IT, not the speed of business. Agents cannot deliver trust and speed on top of that.
