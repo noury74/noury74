@@ -8,7 +8,7 @@ Agents need an agile data foundation: every department, every legal entity, ever
 
 We are building a business layer on the data platforms companies already own:
 - **The CDO sets the rules** that govern data
-- **The business owns** the data foundations
+- **The business owns** the data foundations: they define how the business works and what is critical to understand
 - **AI agents build and run** the platform
 
 One unified, governed, proven model of the enterprise. First for AI agents, then for every downstream app. No migration, no new platform.
