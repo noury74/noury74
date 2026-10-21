@@ -1,4 +1,5 @@
-**Building the data foundations for the age of AI agents.**
+**The know-how layer on top of your data lakehouse.**
+*Automatically unifying every data source and every legal entity into one foundation AI agents can trust.*
 
 AI agents are everywhere. So is enterprise data, and that is the problem.
 
@@ -8,7 +9,7 @@ Agents need an agile data foundation: every department, every legal entity, ever
 
 We are building a business layer on the data platforms companies already own:
 - **The CDO sets the rules** that govern data
-- **The business owns** the data foundations: they define how the business works and what is critical to understand
+- **The business owns** the data foundations
 - **AI agents build and run** the platform
 
 One unified, governed, proven model of the enterprise. First for AI agents, then for every downstream app. No migration, no new platform.
